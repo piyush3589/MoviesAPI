@@ -1,2 +1,7 @@
-#Created FastAPI Server for Demonstating CRUD operations
+# Created Movies API for Demonstating CRUD operations
+# Technologies Used
+* FastApi
+* Pymongo
+* dot-env
+
 
